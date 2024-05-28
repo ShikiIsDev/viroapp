@@ -2,6 +2,11 @@
   "expo": {
     "name": "viroapp",
     "slug": "viroapp",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "688b9cc7-d096-4071-ba25-37fddf5a61d0"
+      }
+    }
   }
 }
